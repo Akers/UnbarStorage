@@ -1,0 +1,9 @@
+{
+	"execute": "execute.py",
+	"level": 0,
+	"login": true,
+	"describe": ""
+	"params":[
+		param:{"name":"n", "value":"val"},
+	]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api_list>
+    <api_model name="login" load="True" enable="True" level="10">
+        <resources method="POST" xml="False" json="True">
+            <url>user/login</url>
+        </resources>
+        
+        <handler remote="False">dir/dir/modulename.HandlerClass</handler>
+    </api_model>
+</api_list>

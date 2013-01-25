@@ -1,0 +1,5 @@
+{
+    "data_base": "MySql",
+    "api_dir": "/ApiModules",
+    "logs_path":"/logs"
+}
