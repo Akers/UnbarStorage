@@ -5,6 +5,6 @@
             <url>user/login</url>
         </resources>
         
-        <handler remote="False">dir/dir/modulename.HandlerClass</handler>
+        <handler remote="False">user/login/handler.LoginHandler</handler>
     </api_model>
 </api_list>

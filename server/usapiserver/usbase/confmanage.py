@@ -170,8 +170,16 @@ def __make_confxml_handler():
             elif name == 'url':
                 self.urls.append(self.content)
             elif name == 'handler':
-                self.handler.update({'class':self.content})
+                contentLst = self.content.split('.')
+
+                lastSepIndex = contentLst[0].rindex('/')
+
+                modelPath = contentLst[0][0:lastSepIndex]
+                modelName = contentLst[0][lastSepIndex+1:len(contentLst[0])]
+
+                self.handler.update({'modelPath':modelPath, 'modelName':modelName ,'className':contentLst[1]})
             elif name == 'api_model':
+                self.apimodle.update({'handler': self.handler})
                 self.apimodlelist.append(self.apimodle)
             self.content = ''
         

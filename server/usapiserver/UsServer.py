@@ -3,7 +3,7 @@ import os,sys, GLOBAL;
 
 from usbase.uslogger import ServerLogger
 import usbase.confmanage
-from usbase.apiloader import ApiLoader
+from usbase.apimanage import ApiManager
 
 SERVER_STATUS_STOPED = 0;
 SERVER_STATUS_RUNNING = 1;
@@ -25,7 +25,7 @@ class UnbarStorageServer:
 
 	#----------------------------------------------------------------------	
 	def runServer(self):
-		"""init Server"""
+		"""Run Server"""
 		if(self.__loadConf() == False):
 			self.__serverStatus = SERVER_STATUS_ERROR;
 		
@@ -43,7 +43,7 @@ class UnbarStorageServer:
 		
 		self.__serverStatus = SERVER_STATUS_RUNNING;
 		
-		self.__apiLoader = ApiLoader(self.__apiDir)
+		self.__apiManager = ApiManager(self.__apiDir)
 		
 	#----------------------------------------------------------------------
 	def __loadConf(self):
@@ -67,7 +67,7 @@ class UnbarStorageServer:
 		
 	
 	def executeApi(self, url, method="GET"):
-		print self.__apiLoader.execapi(url, [])
+		print self.__apiManager.execApi(url, [])
 		pass;
 	
 	def getOsRoot(self):

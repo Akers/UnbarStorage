@@ -1,14 +1,13 @@
 #coding=utf-8
-import rstfomater
+import rstformater
 
-
-class ApiHandler():
+class ApiHandler(object):
     """docstring for ApiHandler"""
     def __init__(self):
         self.__params = {}
 
     def ececute(self):
-        return rstfomater.jsonError(0, 'NotImplementedError')
+        return rstformater.jsonError(0, 'NotImplementedError')
 
     def setParams(self, params={}):
         self.__params.update(params)
@@ -22,4 +21,4 @@ class ApiHandler():
         return self.__params
 
     def getParam(self, key):
-        return self.__params.get('key', None)
+        return self.__params.get(key, None)
