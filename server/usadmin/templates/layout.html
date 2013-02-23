@@ -1,0 +1,49 @@
+$def with (content)
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <!--styles-->
+        <link rel="stylesheet/less" type="text/css" href="/static/style/dev/theme_default.less" >
+        <!--scripts-->
+        <script src="/static/js/dev/utils.js"></script>
+        <script src="/static/js/lib/jquery.js"></script>
+        <script src="/static/js/dev/base.js"></script>
+        
+		<script src="/static/js/lib/less.js"></script>
+        <title>UnberStorage--$content.title</title>
+    </head>
+    <body>
+        <section id="container">
+            <header>
+                <div class="banner">
+                    <span class="main_title">UnberStorage</span>
+                    <span class="sub_title">Unber your door of storage. Open new ways for your bussiness.</span>
+                    <span class="describe">开放式进销存管理平台</span>
+                </div>
+            </header>
+            <nav id="nav_main">
+            	<ul class="nav_menu">
+                    $ cur = 'cur_item' if content.curpage=='index' else ''
+                	<li class="menu_item $cur"><a href="/">首页</a></li>
+                    $ cur = 'cur_item' if content.curpage=='status' else ''
+                    <li class="menu_item $cur"><a id="nav_apistatus" href="/status">Api状态查询</a></li>
+                    $ cur = 'cur_item' if content.curpage=='docs' else ''
+                    <li class="menu_item $cur"><a href="javascript:void(0)">Api文档</a></li>
+                    $ cur = 'cur_item' if content.curpage=='admin' else ''
+                    <li class="menu_item $cur"><a href="/admin">管理登录</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </nav>
+            <section id="content">
+            	$:content
+            </section><!--end section#content-->
+            <div class="clear"></div>
+            <footer>
+                <div class="copyright">Copyright © 2012-2013 Akers Liang All rights reserved. </div>
+                <div class="powerby">Power by <a href="http://www.akers.tk">Akers</a></div>
+                <div class="clear"></div>
+            </footer>
+        </section><!--end section#container-->
+    </body>
+</html>

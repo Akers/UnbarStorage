@@ -1,0 +1,25 @@
+{
+	"api_list":[
+        {
+            "load":"true",
+            "enable":"true",
+            "name":"login",
+            "url":"local://user/login/",
+            "handler":"execute.APIClass",
+            "level":10,
+            "support_result":["json", "xml"]
+        },
+        {
+            "load":"true",
+            "enable":"true",
+            "tax":"user2",
+            "name":"login2",
+            "method":"POST",
+            "url":"local://user/login/",
+            "handler":"execute.APIClass",
+            "level":10,
+            "support_result":["json", "xml"]
+        }
+	]
+	
+}

@@ -1,0 +1,1468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"handl",
+				"handler"
+			],
+			[
+				"pr",
+				"printArr"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"print",
+				"printArr"
+			],
+			[
+				"arr",
+				"arrLen"
+			],
+			[
+				"json",
+				"jsonRst"
+			],
+			[
+				"rs",
+				"rsformat"
+			],
+			[
+				"js",
+				"jsonError"
+			],
+			[
+				"comp",
+				"comp_phone"
+			],
+			[
+				"comp_",
+				"comp_phone"
+			],
+			[
+				"decl",
+				"declarative_base"
+			],
+			[
+				"user",
+				"users_table"
+			],
+			[
+				"db",
+				"dblib"
+			],
+			[
+				"__",
+				"__doLogin"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"for	@for"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"appl",
+				"applyTags"
+			],
+			[
+				"apply",
+				"applyTemplate"
+			],
+			[
+				"applyt",
+				"applytpl"
+			],
+			[
+				"html",
+				"htmlStr"
+			],
+			[
+				"h",
+				"htmlStr"
+			],
+			[
+				"tpl",
+				"tplApplys"
+			],
+			[
+				"b",
+				"beReplace"
+			],
+			[
+				"app",
+				"applyTpl"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"load",
+				"loadTemplates"
+			],
+			[
+				"stat",
+				"statusElement"
+			],
+			[
+				"app_",
+				"app_index"
+			],
+			[
+				"t",
+				"template"
+			],
+			[
+				"__api",
+				"__apiDir"
+			],
+			[
+				"co",
+				"comp"
+			],
+			[
+				"Api",
+				"ApiList"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"data",
+				"datas"
+			],
+			[
+				"func",
+				"funcName"
+			],
+			[
+				"get",
+				"getattr"
+			],
+			[
+				"geta",
+				"getattr"
+			],
+			[
+				"handler",
+				"handler"
+			],
+			[
+				"ex",
+				"executeApi"
+			],
+			[
+				"api",
+				"api_model"
+			],
+			[
+				"lang",
+				"lang"
+			],
+			[
+				"type",
+				"types"
+			],
+			[
+				"w",
+				"webpy"
+			],
+			[
+				"me",
+				"method	@method"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"pre",
+				"preloadApilst"
+			],
+			[
+				"U",
+				"UnbarStorageServer"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ROOT",
+				"ROOT_PATH"
+			],
+			[
+				"hand",
+				"handler"
+			],
+			[
+				"han",
+				"handler"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"read",
+				"read-more"
+			],
+			[
+				"ba",
+				"banner-content"
+			],
+			[
+				"the_",
+				"the_excerpt"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"pa",
+				"pattern_safe_str"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"tax",
+				"taxonomy"
+			],
+			[
+				"lis",
+				"listdir"
+			],
+			[
+				"cur",
+				"curPath"
+			],
+			[
+				"API",
+				"API_MODELS"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"get_theme_root",
+				"get_theme_root_uri"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"SAX",
+				"SAXParserFactory"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"get_the_ter",
+				"get_the_term_list"
+			],
+			[
+				"wp_get_term",
+				"wp_get_post_terms"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"get_pos",
+				"get_posts"
+			],
+			[
+				"delete_post",
+				"wp_delete_post"
+			],
+			[
+				"esc",
+				"esc_attr"
+			],
+			[
+				"get_cate",
+				"&get_category"
+			],
+			[
+				"get_the_post",
+				"get_the_post_thumbnail"
+			],
+			[
+				"wp_count",
+				"wp_count_posts"
+			],
+			[
+				"jQu",
+				"jQuery	jQuery (Select or Create DOM Element)"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"backgroun",
+				"background_color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"update_post",
+				"update_post_meta"
+			],
+			[
+				"register_post",
+				"register_post_type"
+			],
+			[
+				"root",
+				"root_cat_id"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"getop",
+				"get_option"
+			],
+			[
+				"add_meta",
+				"add_meta_box"
+			],
+			[
+				"get_categorie",
+				"&get_categories"
+			],
+			[
+				"wp_list",
+				"wp_list_categories"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"border-bott",
+				"border-bottom-left-radius"
+			],
+			[
+				"n",
+				":nth-child(|)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"bottom",
+				"bottom_line"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"web",
+				"webkit-box"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"obj",
+				"objUl"
+			],
+			[
+				"dom",
+				"domName"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-bo",
+				"border-box"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/static/js/dev/base.js",
+			"settings":
+			{
+				"buffer_size": 3824,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/projects/algorithm/quicksort.c",
+			"settings":
+			{
+				"buffer_size": 936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/usapiserver/ApiResource/user/login.py",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/appadmin.py",
+			"settings":
+			{
+				"buffer_size": 1334,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/usapiserver/usbase/models/operations.py",
+			"settings":
+			{
+				"buffer_size": 2923,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/appapi.py",
+			"settings":
+			{
+				"buffer_size": 1103,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/usapiserver/usbase/models/po.py",
+			"settings":
+			{
+				"buffer_size": 2611,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/usindex/templates/admin/login.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/runserver.py",
+			"settings":
+			{
+				"buffer_size": 726,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/usapiserver/usbase/apibase.py",
+			"settings":
+			{
+				"buffer_size": 3831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/usapiserver/usbase/rstformater.py",
+			"settings":
+			{
+				"buffer_size": 1953,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/python2.sublime-build",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"col",
+				"Color picker"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"svn",
+				"SVN: Commit…"
+			],
+			[
+				"svn:C",
+				"SVN: Commit…"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packagei",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 319.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dia/locale/zh_CN/LC_MESSAGES/dia.mo",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/apimanage.py",
+		"/E/projects/algorithm/gnomesort/gnomesort.c",
+		"/E/projects/algorithm/insertsort.c",
+		"/E/projects/algorithm/bubblesort.c",
+		"/E/projects/algorithm/quicksort.c",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/models/__init__.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/models/operations.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/models/tables.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/models/po.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiResource/user/login.py",
+		"/E/projects/python/UnbarStorage/server/runserver.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ErrorRef.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/rstformater.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/apibase.py",
+		"/E/projects/python/UnbarStorage/server/appadmin.py",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/admin/appmanage.html",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/admin/admin.html",
+		"/E/projects/python/UnbarStorage/server/static/js/dev/base.js",
+		"/E/projects/python/UnbarStorage/server/static/js/dev/utils.js",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/admin/login.html",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/layout.html",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/models/api.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/models/user.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/po.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/models.py",
+		"/E/projects/python/UnbarStorage/server/webpy/__init__.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/sqls/db_back.sql",
+		"/E/projects/python/UnbarStorage/server/usapiserver/UsServer.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/db.py",
+		"/E/projects/python/UnbarStorage/server/webpy/db.py",
+		"/E/projects/python/UnbarStorage/server/appapi.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiResource/api_module_configs.xml",
+		"/E/projects/python/UnbarStorage/server/appindex.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiResource/api_module_confs.json",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/index.html",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/apistatus.html",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiResource/apiadmin/apilist.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/db",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/admin/index.html",
+		"/E/projects/python/UnbarStorage/server/usindex/templates/admin.html",
+		"/E/projects/python/UnbarStorage/server/usapiserver/sqls/user.sql",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/confmanage.py",
+		"/E/projects/python/UnbarStorage/server/usadmin/templates/index.html",
+		"/E/projects/python/UnbarStorage/server/usapiserver/GLOBAL.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/utils.py",
+		"/E/projects/python/UnbarStorage/server/templates/test.html",
+		"/E/projects/python/UnbarStorage/server/usindex/usindex.py",
+		"/E/projects/python/UnbarStorage/server/usadmin/usadmin.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/TestUsServer.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/settings.json",
+		"/E/projects/python/UnbarStorage/server/usapiserver/usbase/orm.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/settings.xml",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiModules/api_module_configs.xml",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiModules/conf_man",
+		"/E/projects/python/UnbarStorage/server/server/urls.py",
+		"/E/projects/python/UnbarStorage/server/manage.py",
+		"/E/projects/python/UnbarStorage/server/server/views.py",
+		"/E/projects/python/UnbarStorage/server/server/api/views.py",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/views/api.py",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/urls.py",
+		"/E/projects/python/UnbarStorage/server/server/api/urls.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiModules/user/login/handler.py",
+		"/E/projects/python/UnbarStorage/.gitignore",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/AkCore/AkMessager/ApiMessage.py",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/AkCore/base/api_loader.py",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiModues/api_conf.json",
+		"/E/projects/python/UnbarStorage/server/usapiserver/ApiPlugs/api_conf.json",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/AkCore/apis/verification/login/functions.py",
+		"/E/projects/saeProjects/AkHome/wp-content/themes/akresponsive/home - 副本.php",
+		"/E/projects/saeProjects/AkHome/wp-content/themes/akresponsive/home.php",
+		"/E/projects/saeProjects/AkHome/wp-content/themes/akresponsive/style.css",
+		"/E/projects/c#Projects/FileRenameTool/readme.md",
+		"/E/projects/saeProjects/AkHome/wp-content/themes/akresponsive/footer.php",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/AkCore/apis/verification/login/execute.py",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/manage.py",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/settings.py",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/AkCore/apis/api_list.py",
+		"/E/projects/python/AkBSSS/Server/AkBsssServer/AkBsssServer/AkCore/AkMessager.py",
+		"/E/projects/XmlProjects/AkResume/akersume_minimumism_blue.xsl",
+		"/E/projects/XmlProjects/AkResume/akersume.css",
+		"/D/Sublime Text 2/Data/Packages/ColorPicker/Default (Windows).sublime-keymap",
+		"/E/projects/XmlProjects/AkResume/akersume_minimumism_blue.css",
+		"/E/projects/python/AkPDOS/Server/AkPdosServer/AkPdosServer/AkCore/AkMessager/ApiMessage.py",
+		"/D/DC_SDK/htdocs/111/modules/cx01/cx01.php",
+		"/E/projects/python/AkPDOS/Server/AkPdosServer/AkPdosServer/AkCore/base/api_loader.py",
+		"/E/projects/python/AkPDOS/Server/AkPdosServer/AkPdosServer/AkCore/apis/verification/login/execute.py",
+		"/E/projects/python/AkPDOS/Server/AkPdosServer/AkPdosServer/urls.py",
+		"/E/勿删！！！重要资料/简历/xml_version/akresume.xml",
+		"/E/projects/saeProjects/AkHome/index.php",
+		"/E/projects/saeProjects/AkHome/license.txt",
+		"/E/DC_SDK/DC_SDK/htdocs/111/modules/kf02/kf02.php",
+		"/E/1111/userinfo_users_20121204195834.xml",
+		"/E/DC_SDK/DC_SDK/htdocs/111/index.php",
+		"/E/DC_SDK/DC_SDK/htdocs/111/modules/kf01/kf01.php",
+		"/E/projects/c#Projects/AkReminder/AkReminder/bin/Debug/conf.xml",
+		"/D/DC_SDK/htdocs/111/modules/cx01/module.xml",
+		"/D/DC_SDK/htdocs/111/modules/cx05/cx05.php",
+		"/D/DC_SDK/htdocs/111/modules/cx05/module.xml",
+		"/N/test.cpp",
+		"/C/Users/Akers/Documents/Tencent Files/351375668/FileRecv/index.php",
+		"/C/Users/Akers/Documents/Tencent Files/351375668/FileRecv/DC_SDK/htdocs/111/modules/cx02/cx02.php",
+		"/C/Users/Akers/Documents/Tencent Files/351375668/FileRecv/DC_SDK/htdocs/111/index.php",
+		"/C/Users/Akers/Documents/Tencent Files/351375668/FileRecv/DC_SDK/htdocs/111/assets/stylesheets/blue.css",
+		"/E/projects/python/AkPDOS/Server/AkPdosServer/AkPdosServer/views/api.py",
+		"/C/Users/Akers/Documents/Tencent Files/351375668/FileRecv/DC_SDK/htdocs/111/modules/cx01/cx01.php",
+		"/E/projects/python/AkPDOS/Server/AkPdosServer/AkPdosServer/AkCore/AkMessager/__init__.py",
+		"/E/projects/python/AkPDOS/Server/AkPdosServer/AkPdosServer/AkCore/AkMessager.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/urls.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/apis/verification/login/functions.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/apis/api_list.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/views/api.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/apis/base/api_loader.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/apis/base.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/apis/verification/login/execute.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/AkPDOS/api.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/views/api.py",
+		"/E/projects/python/AkPDOS/Server/AkPDOS/apis/api_list.py",
+		"/E/projects/python/AkSSS/Server/AkSSS/apis/api_list.py",
+		"/E/projects/python/AkSSS/Server/AkSSS/AkSSS/urls.py",
+		"/E/projects/python/AkSSS/Server/AkSSS/AkSSS/settings.py",
+		"/E/projects/python/AkSSS/Server/AkSSS/apis/verification/login/execute.py",
+		"/E/projects/python/AkSSS/Server/AkSSS/views/api.py",
+		"/E/projects/python/AkSSS/Server/AkSSS/urls.py",
+		"/E/projects/python/AkSSS/Server/manage.py",
+		"/E/projects/python/AkSSS/Server/AkSSS/settings.py",
+		"/E/projects/python/djangotest/mysite/mysite/urls.py",
+		"/E/projects/python/djangotest/mysite/mysite/views.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\projects\\saeProjects\\AkHome",
+			"E:\\projects\\saeProjects\\AkHome\\themes\\responsive_ak",
+			"E:\\projects\\saeProjects\\AkHome",
+			"E:\\projects\\saeProjects\\wptest",
+			"E:\\projects\\saeProjects\\wptest\\wp-content\\themes\\responsive_ak",
+			"E:\\projects\\saeProjects\\wptest",
+			"E:\\projects\\saeProjects\\wptest\\wp-content\\themes\\responsive_ak",
+			"E:\\projects\\saeProjects\\wptest",
+			"E:\\projects\\saeProjects\\wptest\\wp-content\\themes\\evolve\\library\\media",
+			"E:\\projects\\saeProjects\\wptest\\wp-content\\themes\\responsive_ak",
+			"E:\\projects\\saeProjects\\wptest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"db",
+			"database",
+			"error",
+			"__apiManager",
+			"print",
+			"import_driver",
+			"DB",
+			"query",
+			"database",
+			"			api.update({'module', module})\n			api.update({'module', module})\napiConf",
+			"jsonError",
+			"pdb",
+			"print",
+			".top-menu",
+			"banner-content",
+			"AkPdosServer",
+			"demo3",
+			"VERSION ",
+			"navIn",
+			"sub-menu",
+			".menu li li",
+			".menu",
+			"ak",
+			"akers",
+			"SAE_MYSQL_DB",
+			"new_input_boxes",
+			"id=\"featured\"",
+			"ak_intro_box",
+			"id=\"featured\"",
+			"featured",
+			"post-title",
+			".post-title",
+			"post-title",
+			"archive",
+			"print",
+			"SAE",
+			"SaeStorage",
+			"wp_upload_dir",
+			"SaeStorage",
+			"$bdir",
+			"wordpress.stor.sinaapp.com",
+			"query_posts",
+			"print_r",
+			"echo",
+			"print_r",
+			"|",
+			"$post",
+			"update_post",
+			"blog.php",
+			"query_posts",
+			"content-archive",
+			"print_r",
+			"ak_form_action",
+			"AkWorksLst",
+			"id=\"comments\"",
+			"onclick=\"WPRemoveThumbnail",
+			"postimagediv",
+			"postimage",
+			"postimagediv",
+			"function add_meta_box",
+			"postimagediv",
+			"'post_ID'",
+			"$wp_list_table",
+			"mode",
+			"add_action",
+			"$calling_post_id",
+			"wp-post-thumbnail",
+			"function media_upload_form",
+			"wp-post-thumbnail",
+			"update_option",
+			"\"",
+			"#post",
+			"#publish",
+			"publish",
+			"WPRemoveThumbnail",
+			"function get_metadata",
+			"function get_post_meta",
+			"class _WP_Editors",
+			"wp_editor",
+			"page",
+			"custom-header",
+			"import",
+			"choose-from-library-link",
+			"_wpnonce-custom-header-upload",
+			"custom-header",
+			"_wpnonce-custom-header-upload",
+			"custom-header",
+			"post_thumbnail_meta_box",
+			"$post",
+			"add_meta_box",
+			"categorydiv",
+			"categorychecklist",
+			"get_post_type_object",
+			"$post_new_file",
+			"$title",
+			"category",
+			"categorydiv",
+			"cat",
+			"screen_icon",
+			"$post_new_file",
+			"icon-edit",
+			"$post",
+			"postdivrich",
+			"titlediv",
+			"vis",
+			"current-menu-item",
+			".menu",
+			"\\",
+			".menu",
+			"overf",
+			"width",
+			"tinyNav",
+			"menu-catalog",
+			"active",
+			".menu",
+			"sub-menu",
+			"js",
+			"menu-item-type-taxonomy",
+			"border-radius: none;",
+			".menu-item-object-category",
+			".menu",
+			"menu",
+			"selfURL",
+			"return",
+			"projects",
+			"auto_complete",
+			"#footer",
+			"#header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ak_admin_url",
+			"AkWorksManager",
+			"'",
+			"border-radius: 0;",
+			"footer",
+			"header",
+			"void",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/static/js/dev/base.js",
+					"settings":
+					{
+						"buffer_size": 3824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3187,
+								3187
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1538.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/projects/algorithm/quicksort.c",
+					"settings":
+					{
+						"buffer_size": 936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/usapiserver/ApiResource/user/login.py",
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server/appadmin.py",
+					"settings":
+					{
+						"buffer_size": 1334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server/usapiserver/usbase/models/operations.py",
+					"settings":
+					{
+						"buffer_size": 2923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "server/appapi.py",
+					"settings":
+					{
+						"buffer_size": 1103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/usapiserver/usbase/models/po.py",
+					"settings":
+					{
+						"buffer_size": 2611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server/usindex/templates/admin/login.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "server/runserver.py",
+					"settings":
+					{
+						"buffer_size": 726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "server/usapiserver/usbase/apibase.py",
+					"settings":
+					{
+						"buffer_size": 3831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "server/usapiserver/usbase/rstformater.py",
+					"settings":
+					{
+						"buffer_size": 1953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 272.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"api",
+				"server/usapiserver/usbase/apibase.py"
+			],
+			[
+				"rstfor",
+				"server/usapiserver/usbase/rstformater.py"
+			],
+			[
+				"ba",
+				"server/static/js/dev/base.js"
+			],
+			[
+				"login",
+				"server/usindex/templates/admin/login.html"
+			],
+			[
+				"lay",
+				"server/usindex/templates/layout.html"
+			],
+			[
+				"layo",
+				"server/usindex/templates/layout.html"
+			],
+			[
+				"user",
+				"server/usapiserver/usbase/models/user.py"
+			],
+			[
+				"login.",
+				"server/usapiserver/ApiResource/user/login.py"
+			],
+			[
+				"api_lod",
+				"Server/AkPdosServer/AkPdosServer/AkCore/base/api_loader.py"
+			],
+			[
+				"temp",
+				"wp-includes/template-loader.php"
+			],
+			[
+				"wp-bl",
+				"wp-blog-header.php"
+			],
+			[
+				"wp-lo",
+				"wp-load.php"
+			],
+			[
+				"wp-blog",
+				"wp-blog-header.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"config",
+				"wp-config.php"
+			],
+			[
+				"index.",
+				"wp-content/themes/inove/index.php"
+			],
+			[
+				"wp-confi",
+				"wp-config.php"
+			],
+			[
+				"wp-db",
+				"wp-includes/wp-db.php"
+			],
+			[
+				"u",
+				"/D/Sublime Text 2.0 x64/Data/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"use",
+				"/D/Sublime Text 2.0 x64/Data/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true
+}

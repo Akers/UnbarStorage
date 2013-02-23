@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api_list>
+    <!-- level 0 为公共开放的api level10为最高权限api只限于服务器管理客户端使用 -->
+    <api_model name="example" load="False" enable="True" level="10">
+        <!-- 定义资源连接 
+	        resType : 支持的结果渲染没有此属性则默认支持json
+	        url : 资源url,格式为taxurl/apiname 其中的taxurl可以有多层 -->
+        <resource resType='xml,json' url='apiadmin/api' />
+        <!-- handler，对应api_dir下的ApiHandler,格式为dirpath/modulename.classname -->
+        <handler remote="False">user/ver.Handler</handler>
+    </api_model>
+<api_list>
+    <!-- 获取Api列表 -->
+    <api_model name="apilist" load="True" enable="True" level="0">
+    	<resource resType='json' url='apiadmin/apilist' />
+    	<handler remote="False">apiadmin/apilist.ApiList</handler>
+    </api_model>
+    <!-- 管理接口： -->
+    <!-- 应用管理api -->
+    <api_model name="userlogin" load="False" enable="True" level="10">
+        <resource resType='json' url='admin/app' />
+        <handler remote="False">user/login.UserLogin</handler>
+    </api_model>
+    <!-- 用户管理api -->
+    <api_model name="userlogin" load="False" enable="True" level="10">
+        <resource resType='json' url='admin/user' />
+        <handler remote="False">user/login.UserLogin</handler>
+    </api_model>
+
+
+    <!-- 应用列表API -->
+    <api_model name="userlogin" load="False" enable="True" level="0">
+        <resource resType='json' url='app/list' />
+        <handler remote="False">user/login.UserLogin</handler>
+    </api_model>
+    <!-- 用户登录api -->
+    <api_model name="userlogin" load="True" enable="True" level="0">
+        <resource resType='json' url='user/login' />
+        <handler remote="False">user/login.UserLogin</handler>
+    </api_model>
+</api_list>

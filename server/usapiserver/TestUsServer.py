@@ -1,10 +1,12 @@
 #coding=utf-8
+import json
 from UsServer import UnbarStorageServer
 
-
 sevr = UnbarStorageServer()
-sevr.runServer()
-print "execute result => ", sevr.executeApi("user/login", "GET")
+# print "execute result => ", sevr.executeApi("user/login", "GET")
+
+print sevr.executeApi('apiadmin/apilist', {'mod':'listall'}, {'token', '1GvS4B6K'}, 'get')
+
 
 # path = 'a/b/c'
 # sub = 'a/b'

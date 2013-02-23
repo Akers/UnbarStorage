@@ -1,5 +1,5 @@
 {
-    "data_base": "MySql",
-    "api_dir": "/ApiModules",
+    "data_base": {"dburl":"localhost:3306", "dbn":"mysql", "db":"db_usdb","user":"root", "pw":"0000"},
+    "api_dir": "/ApiResource",
     "logs_path":"/logs"
 }

@@ -1,0 +1,27 @@
+$var title: Api状态查询
+$var curpage: status
+<div id="api_status">
+	<!--在templates元素内声明所需模板-->
+	<templates>
+		<!-- 一个tpl标签定义一个模板 -->
+		<tpl id="status-list">
+			<tpl-tr id="apistatus_%name%" class="apistatus">
+				<tpl-td class="name">%name%</tpl-td>
+				<tpl-td class="request-url">%url%</tpl-td>
+				<tpl-td class="level">%level%</tpl-td>
+				<tpl-td class="res-types">%resource%</tpl-td>
+				<tpl-td class="enable">%enable%</tpl-td>
+				<tpl-td class="status">Testing...</tpl-td>
+			</tpl-tr>
+		</tpl>
+		<tpl id="status-list-2">
+			<div></div>
+		</tpl>
+	</templates>
+	<table id='status_list'>
+		<tr><th>Api名称</th><th>请求Url</th><th>Api等级</th><th>支持资源类型</th><th>已启用</th><th>状态</th></tr>
+		<!-- 通过applytpl类应用模板tpl属性为所应用模板的id -->
+		<tr class='applytpl' tpl="status-list"></tr>
+
+	</table>
+</div>

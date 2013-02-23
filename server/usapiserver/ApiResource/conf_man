@@ -1,0 +1,12 @@
+//{
+//            "load":"false",//Needed default true, load api when set true
+//            "enable":"true",//Needed default:true, enable api when set true
+//            "tax":"api_tax",//Needed the api request will like tax/name[.json|.xml]
+//            "name":"api_name",
+//            "method":"GET",//GET--when read only or just query; POST--when creating DELETE--when delete PUT--when update
+//            "handler":"local://user/login/execute.APIClass",//local api handler class
+//            //"handler":"remote://http://www.baidu.com",//remote api handler
+//            "level":10,
+//            "description":"The Description of api",//Not needed
+//            "support_result":["json", "xml"],
+//        },

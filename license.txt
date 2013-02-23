@@ -1,6 +1,6 @@
-       AkReminder - a project to help you remind something 
+       UnberStorage  
 
-Copyright 2012 Akers Liang
+Copyright 2013 Akers Liang
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

@@ -9,6 +9,7 @@ import os
 
 SERVER_ROOT = os.path.dirname(__file__)
 LIB_PATH = "%s%s%s" % (SERVER_ROOT, os.sep, "libs")
+API_PATH = "%s/%s"%(os.path.dirname(__file__), 'ApiResource')
 LOGGER = None
 
 #def IMPORT_XPATH():
